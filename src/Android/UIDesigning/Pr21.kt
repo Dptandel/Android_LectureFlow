@@ -110,3 +110,7 @@ package Android.UIDesigning
 // DAY 48
 
 // Learn BottomNavigationView and TASK: BottomNavigationView with Fragment and RecyclerView in fragment.
+
+// DAY 49
+
+//
