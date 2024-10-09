@@ -113,4 +113,8 @@ package Android.UIDesigning
 
 // DAY 49
 
-//
+// Learn to make OnBoardingScreen (it means brief intro of app) using ViewPager
+
+// DAY 50
+
+// Indicators and next previous on OnBoarding ( using Coding Kotlin )
