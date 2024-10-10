@@ -118,3 +118,11 @@ package Android.UIDesigning
 // DAY 50
 
 // Indicators and next previous on OnBoarding ( using Coding Kotlin )
+
+// DAY 51
+
+// Learn about NavigationDrawer
+// with CoordinatorLayout ( property like fitSystemWindows )
+// with DrawerLayout ( consists DrawerHeader and DrawerMenus )
+// learn include property ( to include layout which can reusable layout in XML )
+
