@@ -126,3 +126,7 @@ package Android.UIDesigning
 // with DrawerLayout ( consists DrawerHeader and DrawerMenus )
 // learn include property ( to include layout which can reusable layout in XML )
 
+// DAY 52
+
+// Self Learn SQLiteDatabase (from YouTube)
+// NavigationDrawer with Toggle Button in AppBarLayout ( toolbar )
