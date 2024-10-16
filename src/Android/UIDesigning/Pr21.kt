@@ -128,5 +128,26 @@ package Android.UIDesigning
 
 // DAY 52
 
-// Self Learn SQLiteDatabase (from YouTube)
+// Self Learn : SQLiteDatabase (from YouTube)
 // NavigationDrawer with Toggle Button in AppBarLayout ( toolbar )
+
+// DAY 53
+
+// InterviewTask :
+// 1. Create One Screen with EditText and Button, then Create n*n Grid with entered no. of rows then
+//    on click of one item select all the item in that particular item related column and row.
+// 2. Create same thing but now on button click on next page one random item only clickable, and it is red colored and
+//    on selecting or clicking on it will be changed to green and again from another remain items one must be red and
+//    clickable and same thing on clicking on it will green. ( must see that one time it will green it will not again red )
+
+// DAY 54
+
+// TabLayout in Android with ViewPager2
+// Self Learn : with ViewPager in TabLayout
+
+// DAY 55
+
+// (Task given to Keval Rane By DayDreamSoft LLP Company in Interview ) (Try it)
+// 3. Nested DropDown in Android (Like, one EditText and one Button On screen, if we enter one category like, fruit than
+//    it will add into spinner DropDown then if we select that fruits category in spinner then if we enter the apple fruit
+//    then it will add into that fruit category in like nested DropDown that's it
