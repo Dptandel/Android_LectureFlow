@@ -151,3 +151,10 @@ package Android.UIDesigning
 // 3. Nested DropDown in Android (Like, one EditText and one Button On screen, if we enter one category like, fruit than
 //    it will add into spinner DropDown then if we select that fruits category in spinner then if we enter the apple fruit
 //    then it will add into that fruit category in like nested DropDown that's it
+
+// DAY 56
+
+// Learn Android Storage Options : Online and Offline
+// In Offline : 1. SharedPreference 2. SQLite Database 3. Internal or External File Storage
+// In Online : 1. Network Connection
+// Started SharedPreference ( it stores data as key/value pair )
