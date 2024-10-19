@@ -158,3 +158,8 @@ package Android.UIDesigning
 // Offline : 1. SharedPreference 2. SQLite Database 3. Internal or External File Storage
 // Online : 1. Network Connection
 // Started SharedPreference ( it stores data as key/value pair )
+
+// DAY 57
+
+// TASK : using SharedPreferences manage session management ( like, splash screen to onBoarding (1 time only)
+// to Login (if you have registered) / to register (if not registered) do this task
