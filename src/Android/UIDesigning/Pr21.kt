@@ -163,3 +163,11 @@ package Android.UIDesigning
 
 // TASK : using SharedPreferences manage session management ( like, splash screen to onBoarding (1 time only)
 // to Login (if you have registered) / to register (if not registered) do this task
+
+// DAY 58
+
+// Work on Previous Task of SharedPreferences.
+
+// DAY 59
+
+// Searching for figma UI Design to implement as Projects. (selfLearn)
