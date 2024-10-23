@@ -171,3 +171,11 @@ package Android.UIDesigning
 // DAY 59
 
 // Searching for figma UI Design to implement as Projects. (selfLearn)
+
+// DAY 60
+
+// SharedPreferences with Singleton Pattern ( for single object creation not multiple time creation )
+
+// DAY 61
+
+// Work on FoodNinja App from Figma Design.
