@@ -179,3 +179,15 @@ package Android.UIDesigning
 // DAY 61
 
 // Work on FoodNinja App from Figma Design.
+
+// DAY 62
+
+// Practice till learned concepts and topics at home( sir on leave )
+
+// DAY 63
+
+// Learn about SQLiteDatabase and Room Database in brief.
+
+// DAY 64
+
+//
