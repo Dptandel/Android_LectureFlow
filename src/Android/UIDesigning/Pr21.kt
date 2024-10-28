@@ -191,3 +191,10 @@ package Android.UIDesigning
 // DAY 64
 
 // Self Learn : Room Database (from YouTube) from Cheezy Code
+
+// DAY 65
+
+// Started ROOM DataBase with usage, benefits, etc.
+// TASK : RoomDB with RecyclerView of User Contact Details.
+
+// DAY 66
