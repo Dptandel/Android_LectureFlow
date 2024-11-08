@@ -200,3 +200,9 @@ package Android.UIDesigning
 // DAY 66
 
 // Room Database till Inserting data into Database and see "app inspection" of android studio -> to see data in Database.
+
+// DAY 67
+
+// Room Database data refresh through Request Code, BackPressed and Finish with adding data or only resume app
+
+// DAY 68
