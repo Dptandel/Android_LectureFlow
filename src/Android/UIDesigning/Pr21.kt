@@ -206,3 +206,6 @@ package Android.UIDesigning
 // Room Database data refresh through Request Code, BackPressed and Finish with adding data or only resume app
 
 // DAY 68
+
+// Room Database: Delete data on LongClick of item
+// Room Database: Update data on Click of item       ///SelfLearn : (DiffUtil) with MVVM
