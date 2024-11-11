@@ -209,3 +209,8 @@ package Android.UIDesigning
 
 // Room Database: Delete data on LongClick of item
 // Room Database: Update data on Click of item       ///SelfLearn : (DiffUtil) with MVVM
+// Complete Room Database
+
+// DAY 69
+
+// Started Network Connection with API from HTTP Methods (in Postman App)
