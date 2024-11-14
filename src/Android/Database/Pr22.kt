@@ -39,3 +39,12 @@ package Android.Database
 
 // Learn JSON Object and JSON Array : with users api from (dummyjson.com) link
 // Practice products api from (dummyjson.com) link
+
+// DAY 72
+
+// work on products api from (dummyjson.com) link (sir on leave)
+
+// DAY 73
+
+//
+
