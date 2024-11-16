@@ -81,3 +81,6 @@ package Android.Database
 // Learn Retrofit , Convertors like Gson and Call API and Fetch the Data from API
 // TASK : Get List of Users/Products to RecyclerView with ProgressBar in APP.
 
+// DAY 74
+
+// Learn What is HTTP Header and what is the use of it (For HTTP REQ/RES)
