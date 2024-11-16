@@ -75,6 +75,7 @@ package Android.Database
 // DAY 72
 
 // work on products api from (dummyjson.com) link (sir on leave)
+// (resource: https://dummyjson.com/ )
 
 // DAY 73
 
@@ -85,3 +86,4 @@ package Android.Database
 
 // Learn What is HTTP Header and what is the use of it (For HTTP REQ/RES)
 // with Postman use of Header and Authorization (perform this)
+// (resource: https://www.universal-tutorial.com/rest-apis/free-rest-api-for-country-state-city)
