@@ -87,3 +87,10 @@ package Android.Database
 // Learn What is HTTP Header and what is the use of it (For HTTP REQ/RES)
 // with Postman use of Header and Authorization (perform this)
 // (resource: https://www.universal-tutorial.com/rest-apis/free-rest-api-for-country-state-city)
+
+// DAY 75
+
+// Learn How to implement header and path of API in application from Retrofit with the Task of Country, State and City APi
+// TASK : Implement this of Country, State and City with default value on Country like Select Country etc. and
+// if India -> Gujarat -> Surat then if I change India then Gujarat and Surat set to default value
+// like China -> Select State -> Select City etc.
