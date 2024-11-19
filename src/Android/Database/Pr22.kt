@@ -94,3 +94,7 @@ package Android.Database
 // TASK : Implement this of Country, State and City with default value on Country like Select Country etc. and
 // if India -> Gujarat -> Surat then if I change India then Gujarat and Surat set to default value
 // like China -> Select State -> Select City etc.
+
+// DAY 76
+
+// Self Learn with Weather API  : like WeatherAPIApp with live data API
