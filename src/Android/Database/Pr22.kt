@@ -93,8 +93,13 @@ package Android.Database
 // Learn How to implement header and path of API in application from Retrofit with the Task of Country, State and City APi
 // TASK : Implement this of Country, State and City with default value on Country like Select Country etc. and
 // if India -> Gujarat -> Surat then if I change India then Gujarat and Surat set to default value
-// like China -> Select State -> Select City etc.
+// like India -> Select State -> Select City etc.
 
 // DAY 76
 
 // Self Learn with Weather API  : like WeatherAPIApp with live data API
+
+// DAY 77
+
+// Learn Server side or Localhost API get/post with XAMPP ( to learn API working flow with server )
+// ( not in recording of SIR )remain to learn ( login functionality )
