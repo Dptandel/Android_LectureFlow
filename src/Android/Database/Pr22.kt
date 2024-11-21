@@ -101,5 +101,7 @@ package Android.Database
 
 // DAY 77
 
+// Build App of Live Weather from API with City Search in searchView
+
 // Learn Server side or Localhost API get/post with XAMPP ( to learn API working flow with server )
 // ( not in recording of SIR )remain to learn ( login functionality )
