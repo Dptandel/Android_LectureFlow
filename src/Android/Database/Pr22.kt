@@ -114,3 +114,8 @@ package Android.Database
 // DAY 79
 
 // Learn to implement API post request through android app ( guided the flow of api calling for self practice )
+
+// DAY 80
+
+// Complete learning of POST Api request through APP
+// TASK : Handle all operation in API from application through shared preferences and all things.
