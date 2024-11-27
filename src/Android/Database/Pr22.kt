@@ -119,3 +119,17 @@ package Android.Database
 
 // Complete learning of POST Api request through APP
 // TASK : Handle all operation in API from application through shared preferences and all things.
+// TASK to learn : Encrypted SharedPreferences
+
+// DAY 81
+
+// Work on : Handle all operation in API from application through shared preferences and all things.
+
+// DAY 82
+
+// Self Learn: Bottom Sheet and BottomSheetDialog
+// Pass JSON Object as a request and as a response getting 201 (status code of successfully created) to api response.
+
+// DAY 83
+
+// TASK : Work on reqres.in api to understand better api request and response with User Data in android app. ( from Home )
