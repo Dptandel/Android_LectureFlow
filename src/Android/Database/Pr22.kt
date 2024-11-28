@@ -133,3 +133,7 @@ package Android.Database
 // DAY 83
 
 // TASK : Work on reqres.in api to understand better api request and response with User Data in android app. ( from Home )
+
+// DAY 84
+
+// Brief Intro of Android Storage : 1. App Specific Storage, 2. Shared Storage, 3. Preferences, 4. Databases
