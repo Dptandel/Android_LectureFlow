@@ -137,3 +137,7 @@ package Android.Database
 // DAY 84
 
 // Brief Intro of Android Storage : 1. App Specific Storage, 2. Shared Storage, 3. Preferences, 4. Databases
+
+// DAY 85
+
+// IMP: StartActivityForResult() || or || AndroidContracts()
