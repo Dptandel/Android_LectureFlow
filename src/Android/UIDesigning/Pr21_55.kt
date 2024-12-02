@@ -150,4 +150,4 @@ package Android.UIDesigning
 // (Task given to "Keval Rane" By DayDreamSoft LLP Company in Interview ) (Try it)
 // 3. Nested DropDown in Android (Like, one EditText and one Button On screen, if we enter one category like, fruit than
 //    it will add into spinner DropDown then if we select that fruits category in spinner then if we enter the apple fruit
-//    then it will add into that fruit category in like nested DropDown that's it
+//    then it will add into that fruit category in like nested DropDown that's it.
