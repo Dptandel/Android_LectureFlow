@@ -10,4 +10,4 @@ package Android.Database
 // Revised Kotlin and Android till Database (Revision)
 // new things for R&D
 // 1. Android Version name with unique features in it from previous versions to new one version
-// 2. Types of Fragment
+// 2. Types of Fragment and what is POJO
