@@ -140,4 +140,4 @@ package Android.Database
 
 // DAY 85
 
-// IMP: StartActivityForResult() || or || AndroidContracts() (Last Day With Dhiren Sir in TOPS)
+// IMP: StartActivityForResult() || or || AndroidContracts() (Last Day With Dhiren Sir in TOPS), VCS (Version Control System), etc.
