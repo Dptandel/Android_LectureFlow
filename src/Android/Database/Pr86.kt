@@ -10,4 +10,12 @@ package Android.Database
 // Revised Kotlin and Android till Database (Revision)
 // new things for R&D
 // 1. Android Version name with unique features in it from previous versions to new one version
-// 2. Types of Fragment and what is POJO
+// 2. Types of Fragment and what is POJO.-
+
+// DAY 88
+
+// Overview of MVVM ( Model View ViewModel)
+// Firebase (Started)
+// See all the Features of Firebase like FireStore, Realtime, etc.
+// How to integrate(add) Firebase to Project
+// Authentication:  Using Firebase Started with Register With Email ID.
