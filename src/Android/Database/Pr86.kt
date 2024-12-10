@@ -18,4 +18,12 @@ package Android.Database
 // Firebase (Started)
 // See all the Features of Firebase like FireStore, Realtime, etc.
 // How to integrate(add) Firebase to Project
-// Authentication:  Using Firebase Started with Register With Email ID.
+// Authentication:  Using Firebase Started (with Register With Email ID).
+
+// DAY 89
+
+// Practice and (self) see new things of Firebase (NO LECTURE) (EXAM of Keval Rane)
+
+// DAY 90
+
+// Authentication:  Using Firebase (Registered user login through Authentication using Email & Password)
