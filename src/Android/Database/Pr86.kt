@@ -27,3 +27,7 @@ package Android.Database
 // DAY 90
 
 // Authentication:  Using Firebase (Registered user login through Authentication using Email & Password)
+
+// DAY 91
+
+// Firebase Google SignIn: Learn Firebase login with Google to Implement Google SignIn in App.
