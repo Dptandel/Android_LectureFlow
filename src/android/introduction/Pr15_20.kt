@@ -1,4 +1,4 @@
-package Android.Introduction
+package android.introduction
 
 // DAY 15
 
