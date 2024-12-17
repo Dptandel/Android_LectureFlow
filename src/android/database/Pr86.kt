@@ -39,4 +39,5 @@ package android.database
 
 // DAY 93
 
-//
+// TASK : Register Student or Teacher with Authentication & Realtime Database to store details
+// (like, name, contact, email, password, gender, languages, course => Realtime Database, email & Password => Authentication)
