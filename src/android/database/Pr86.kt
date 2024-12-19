@@ -41,3 +41,8 @@ package android.database
 
 // TASK : Register Student or Teacher with Authentication & Realtime Database to store details
 // (like, name, contact, email, password, gender, languages, course => Realtime Database, email & Password => Authentication)
+
+// DAY 94
+
+// Firebase Realtime Database : CRUD operation
+// Ex. Contact App like Read all Contacts (read or fetch data) (like name, contact) into RecyclerView using Realtime Database through Application.
