@@ -46,3 +46,7 @@ package android.database
 
 // Firebase Realtime Database : CRUD operation
 // Ex. Contact App like Read all Contacts (read or fetch data) (like name, contact) into RecyclerView using Realtime Database through Application.
+
+// DAY 95
+
+// No Lecture (Today), Practice till learned topics. and work on Assessment 2 (RTO Driving License Test App)
