@@ -50,3 +50,11 @@ package android.database
 // DAY 95
 
 // No Lecture (Today), Practice till learned topics. and work on Assessment 2 (RTO Driving License Test App)
+
+// DAY 96
+
+// No Lecture (Today), Practice till learned topics. and BLOG App (from YouTube).
+
+// DAY 97
+
+//
