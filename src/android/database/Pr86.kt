@@ -57,4 +57,5 @@ package android.database
 
 // DAY 97
 
-//
+// Mock Interview By JAY SIR (for till learned topics)
+// Coroutines : First learn about Threads and then Coroutines Started.
