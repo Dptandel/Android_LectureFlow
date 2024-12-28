@@ -59,3 +59,7 @@ package Android.Database
 
 // Mock Interview By JAY SIR (for till learned topics)
 // Coroutines : First learn about Threads and then Coroutines Started.
+
+// DAY 98
+
+// Learned Coroutines with Scopes and Dispatcher with methods of it (ex. IO, Main, Default, Unconfined).
