@@ -63,3 +63,11 @@ package Android.Database
 // DAY 98
 
 // Learned Coroutines with Scopes and Dispatcher with methods of it (ex. IO, Main, Default, Unconfined).
+
+// DAY 99
+
+// No Lecture (Today), Practice till learned topics. Assignment and Assessment (work on that)
+
+// DAY 100
+
+// Authentication Using Mobile No. (OTP) (with Validation to login)
