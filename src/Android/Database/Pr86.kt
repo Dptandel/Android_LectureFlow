@@ -71,3 +71,7 @@ package Android.Database
 // DAY 100
 
 // Authentication Using Mobile No. (OTP) (with Validation to login) (Practice)
+
+// DAY 101
+
+// learn about Animations in ANDROID
