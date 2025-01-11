@@ -83,3 +83,7 @@ package Android.Database
 // DAY 103
 
 // Notifications (FCM - Firebase Cloud Messaging) like Push Notification and Broadcast Receivers in Android.
+
+// DAY 104
+
+// Placement Related Guidance Like Resume, Git and LinkedIn Links, Upload it to career center and Lastly Interview Preparation (Start) with all covered topics.
