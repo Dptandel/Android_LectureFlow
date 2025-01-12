@@ -86,4 +86,5 @@ package Android.Database
 
 // DAY 104
 
-// Placement Related Guidance Like Resume, Git and LinkedIn Links, Upload it to career center and Lastly Interview Preparation (Start) with all covered topics.
+// Placement Related Guidance by (Jay Sir) Like Resume, Profile Links (Git and LinkedIn Links), Upload resume to
+// career center for (TOPS Placement) and Lastly Interview Preparation (Start) with all covered topics.
