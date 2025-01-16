@@ -88,3 +88,7 @@ package Android.Database
 
 // Placement Related Guidance by (Jay Sir) Like Resume, Profile Links (Git and LinkedIn Links), Upload resume to
 // career center for (TOPS Placement) and Lastly Interview Preparation (Start) with all covered topics.
+
+// DAY 105
+
+// No Lecture (Today), Practice till learned topics. Work on Shopify App (From YouTube Playlist of Land of Coding)
