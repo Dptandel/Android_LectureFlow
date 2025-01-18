@@ -92,3 +92,9 @@ package Android.Database
 // DAY 105
 
 // No Lecture (Today), Practice till learned topics. Work on Shopify App (From YouTube Playlist of Land of Coding)
+
+// DAY 106
+
+// Internal & External Storage (with [CAMERA OR GALLERY OR STORAGE] Image picker) { & Media Integration (SELF LEARN) }
+
+///////////////////////////////// COURSE COMPLETED //////////////////////////
